@@ -1,10 +1,10 @@
 # Loan-Status-Prediction-Model
 Loan Approval Prediction using Machine Learning with Streamlit web app deployment.
 
-**🏦 Loan Approval Prediction using Machine Learning**
+🏦 Loan Approval Prediction using Machine Learning
 A Machine Learning web application that predicts whether a loan application will be Approved or Rejected based on applicant financial details and credit information.
 
-**📌 Project Overview**
+📌 Project Overview
 This project helps automate the loan approval process by predicting loan status using applicant details such as:
 Number of dependents
 Employment status
@@ -20,14 +20,14 @@ Education level
 
 The model is deployed as an interactive web app using Streamlit.
 
-**🚀 Features**
+🚀 Features
 ✅ Predicts loan approval instantly
 ✅ User-friendly web interface
 ✅ Real-time input handling
 ✅ Machine Learning classification model
 ✅ Streamlit deployment ready
 
-**🛠️ Technologies Used**
+🛠️ Technologies Used
 Python
 Pandas
 NumPy
@@ -35,7 +35,7 @@ Scikit-learn
 Pickle
 Streamlit
 
-**📂 Project Structure**
+📂 Project Structure
 Loan-Approval-Prediction/
 │
 ├── app.py                       # Streamlit web app
@@ -44,7 +44,7 @@ Loan-Approval-Prediction/
 ├── loan_approval_dataset.csv    # Dataset
 ├── README.md
 
-**📊 Machine Learning Workflow**
+📊 Machine Learning Workflow
 Data Collection
 Data Cleaning & Preprocessing
 Feature Encoding
@@ -53,7 +53,7 @@ Model Training
 Model Evaluation
 Deployment with Streamlit
 
-**🎯 Input Parameters**
+🎯 Input Parameters
 The model takes the following inputs:
 Number of Dependents
 Self Employed Status
@@ -76,6 +76,6 @@ Add loan probability score
 🤝 Contributing
 Contributions are welcome. Feel free to fork this repository and improve it.
 
-**👨‍💻 Author**
+👨‍💻 Author
 Md Mahtaab Ansari
-GitHub: https://github.com/your-username
+GitHub: https://github.com/mahtaab162
