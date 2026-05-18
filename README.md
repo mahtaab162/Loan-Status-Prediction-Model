@@ -30,4 +30,4 @@ Md Mahtaab Ansari
 
 GitHub: http://localhost:8501/mahtaab162
 
-GitHub : http://192.168.6.34:8501
+GitHub : http://172.20.10.2:8501
