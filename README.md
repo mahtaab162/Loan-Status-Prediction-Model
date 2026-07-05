@@ -28,6 +28,6 @@ Add loan probability score
 👨‍💻 Author
 Md Mahtaab Ansari
 
-GitHub: [http://localhost:8501/mahtaab162](https://loan-status-prediction-model-bntycdembkhq8mromizilg.streamlit.app/)
+GitHub: https://loan-status-prediction-model-bntycdembkhq8mromizilg.streamlit.app/
 
 
